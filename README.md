@@ -6,4 +6,5 @@ Acesta este un manual de utilizare pentru aplicația Pong Game.  Pong Game este 
 - **View History**: Mai există opțiunea de a ne vedea istoricul, ca să ne studiem evoluția: putem să observăm cum în timp am reușit să ne creștem timpul pentru a câștiga, sau să vedem de câte ori am câștigat.
 - **View Rankings**:Totodată putem vedea pe ce loc suntem în acest joc prin apăsarea butonului ,,View Rankings" unde avem acces la cele mai mari scoruri ale tuturor jucătorilor.
 - **Manage Friends**: În final, această aplicație ne oferă și ocazia de a socializa si a lega prietenii cu noi oameni. Avem opțiunea ,,Manage Friend" care deschide un meniu cu un search bar pentru a putea caută pe baza username-ului alți jucători. Dacă apăsăm de două ori pe numele cuiva un Message Window se deschide, unde putem conversa cu ei, mesajele fiind păstrate într-un txt file, și putem de asemenea să îi adăugăm ca și prieteni.
-  Aceasta sunt facilitățile aplicației Pong Game, care e creată pentru a antrena dexteritatea si atenția, fiind un mediu proprice pentru a cunoaște oameni noi și a ne distra alături de prietenii noștri.
+
+Aceasta sunt facilitățile aplicației Pong Game, care e creată pentru a antrena dexteritatea si atenția, fiind un mediu proprice pentru a cunoaște oameni noi și a ne distra alături de prietenii noștri.
